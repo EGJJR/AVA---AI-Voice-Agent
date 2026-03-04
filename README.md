@@ -1,6 +1,6 @@
 # Pipecat – AVA Voice Receptionist
 
-AVA is an AI voice receptionist for Munster Primary Care, built with [Pipecat](https://github.com/pipecat-ai/pipecat). It handles incoming calls via Twilio, runs the conversation in Daily.co rooms, and can schedule, reschedule, and cancel calendar events (Google Calendar) and send SMS/WhatsApp confirmations. Backend uses Supabase; LLM can be OpenAI or AWS Bedrock.
+AVA is an AI voice receptionist for Clinics, built with [Pipecat](https://github.com/pipecat-ai/pipecat). It handles incoming calls via Twilio, runs the conversation in Daily.co rooms, and can schedule, reschedule, and cancel calendar events (Google Calendar) and send SMS/WhatsApp confirmations. Backend uses Supabase; LLM can be OpenAI or AWS Bedrock.
 
 ## Project layout
 
