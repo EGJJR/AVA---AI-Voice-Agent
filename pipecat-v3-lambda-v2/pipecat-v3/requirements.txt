@@ -1,0 +1,27 @@
+# Core dependencies
+pydantic
+
+# Google Calendar API
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+# Date/time parsing and timezone handling
+python-dateutil
+pytz
+
+# SMS notifications
+twilio
+
+# Database integration
+supabase
+
+# Pipecat related things
+pipecat-ai[aws,daily,elevenlabs,openai,silero, cartesia]
+fastapi==0.115.6
+uvicorn
+python-dotenv
+aiohttp
+loguru
+langfuse<3
+python-multipart
